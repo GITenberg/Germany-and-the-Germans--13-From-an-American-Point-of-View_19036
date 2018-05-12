@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8416'
     url: http://www.gutenberg.org/2009/agents/8416
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19036#Germany-and-the-Germans--13-From-an-American-Point-of-View
 gutenberg_bookshelf:
 - Bestsellers, American, 1895-1923
 - Germany
